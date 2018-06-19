@@ -3,6 +3,7 @@
 ### I've worked on:
 - Ad serving platforms and tracking systems serving/tracking in the hundreds of billions per day.
 - Student Data Collection System with 508 compliance
+- Machine Learning Data Pipeline productionization of predictions and model training
 - Building out microservice architecture where it makes sense
 - UX design, both customer and internally facing.
 - Data analysis and recommendations for ad serving.
@@ -13,21 +14,26 @@ I'm looking to grow and solve new problems. I like finding real [human] value in
 
 ## Experience
 
-### Senior Engineer / Engineering Project Lead / Program Manager
-**BrightBytes** November 2013 – Present (3 year 1 month) San Francisco Bay Area
+### Senior Engineer / Engineering Lead / Engineering Manager
+**BrightBytes** November 2013 – Present (4+ years) San Francisco Bay Area
 
-#### What I'm working on...
-- Architect/Develop BrightByte's core data collection systems
+- Mentor nodejs developers in best practices
+- Working with stakeholder requirements to create Roadmaps for current data related products
+- Develop hiring processes and materials
+  - Screening and hiring engineers
+- Train and mentor junior engineers
+- Led Engineering Integration of acquired company
+- Manage several teams; hybrid or remote, onsite, employees, and contractors
+- Architect Machine Learning pipeline
+- Increase prediction pipeline human scaling capacity 30x
+- Architect/Develop core data collection systems
 - Manage Engineering Team Building out Data Pipeline ETL for student dropout prediction
 - Develop common visualization library based on d3 and angular
-- Screening and hiring engineers
-- Mentoring junior engineers
-- Leading outsourced engineering teams
-- Develop, and implementing automated testing strategies
+- Technical Lead on Multiple ongoing projects
+- Develop, and implemented automated testing strategies and processes
 - Lead on mobile app (android/iOS) hybrid
-- Organize Impromptu Friday afternoon craft beer tastings (sours, barrel aged, and all things Pliny welcome)
 
-#### Technologies Used:
+#### Stack and Skills
 - Ruby, Ruby on Rails, rspec, capybara
 - javascript, nodejs, angularjs, backbonejs, d3js, react
 - postgresql, mongodb, redshift, redis
@@ -36,37 +42,37 @@ I'm looking to grow and solve new problems. I like finding real [human] value in
 ### Senior Software Engineer
 **VerticalResponse** June 2012 – November 2013 (1 year 6 months) San Francisco
 
-#### Things I did...
-- Architect VerticalResponse's next tracking system to handle hundreds of billions of records each month
-- Building out VerticalResponse's next generation, customer facing ESP platform with Ember.js
+- Architected the increase of email event tracking capacity 1000x
+- Designed email server rotation to avoid "burning" ip's
+- Led a complete rewrite of a 12 year old rails monolith using at the time beta Ember.js
 - Mentor engineers new to Ember.js and/or javascript
-- Collaborate on VerticalResponse's first styleguide with Senior UX Designer
-- Working on my forehand in ping pong (this still needs work, but I'm willing to train on the job)
+- Led the development of the company's first styleguide and HIG with Senior UX Designer
+- Worked on my forehand in ping pong (this still needs work, but I'm willing to train on the job)
 
 ### Chief Technical Officer
 **Adpeak Inc.** February 2011 – June 2012 (1 year 5 months) Sarasota, Florida Area
 
-Led team to:
-- Develop and maintain applications, including:
-  - Ad Serving/Tracking systems (250 billion ads served and tracked per day and growing) on minimal "hardware"
-  - Toolbars & Browser extensions
-  - Management systems
-- Plan User Experience for products
-- Train Junior User Experience Designers
-- Create project specifications and goals from stakeholder's requirements
-- Managing Projects & Costs
+- Create Technical Strategy and Direction for the company
+- Develop and maintain relationships with prospective and current ad vendors
+- Create and Maintain working relationships with anti-virus vendors
+- Develop short and longterm roadmaps
 - Hiring and Recruitment of new engineering talent
-- Analyzing new opportunities
-- Budget & Purchasing Decisions
-- Prototype applications and procedures
-- Systems Admin for Web Applications
+- Managing Projects & Costs
+- Develop hiring and onboarding processes
+- Architect Ad Serving Platform to reach 250+ Billion ads served every day
+- Architect clientside js payload rules engine and management architecture
+- Reports tooling for end user analysis
+- Plan User Experience for products
+- Mentor User Experience Designers
+- Create project specifications and goals from stakeholder's requirements
+- Analyzing new business opportunities
+- Prototype applications and procedures for new vertical markets
 - Develop wireframes and interactive mockups
+- Initial DevOps on dedicated hardware and later, AWS and Rackspace cloud in a hybrid environment
 - Cut my teeth on table tennis
 
-
-#### Technologies Used:
-- Ruby, Ruby on Rails, Sinatra
-- PHP, Zend Framework, Kohana, Codeigniter
+#### Stack and Skills
+- Ruby, Ruby on Rails, Sinatra, LUA, PHP, Zend Framework, Kohana, Codeigniter
 - Javascript, jQuery, jQuery.UI, Backbone.js, Node
 - SOAP, XPATH, XML, REST
 - Subversion, GIT
@@ -75,17 +81,18 @@ Led team to:
 
 ### Humble Servant
 **C2B** June 2010 – January 2011 (8 months) Sarasota, Florida Area
-*This is the corp I used for consulting gigs.*
+*This is the corp I used for consulting.*
 
-#### Things I did...
+#### Highlights
 -	Brought several penny auction sites up to production quality
 -	Developed Automated interface to MyAds (myspace) API
 -	Developed common gateway for payment systems and order fulfillment. ccbill & AtLast respectively.
 -	Developed reservation system Joomla Component
 -	iPhone web interface to newzbin & hellanzb (pre-appstore)
 -	Developed Web interface to SiMoN Yacht monitoring systems
+- Custom WordPress development
 
-#### Skills I used/acquired:
+#### Stack and Skills
 -	php
 -	javascript
 -	jquery
@@ -102,17 +109,17 @@ Led team to:
 -	Business Analyst
 -	UX Team Lead
 -	Project manager
--	Senior PHP developer
+-	Senior Software Engineer
 
-#### Things I did...
+#### Highlights
 -	Developed new publisher interface overhauling Direct Track's current functionality for Clickbooth CPA network.
 -	Developed system to help Clickbooth and other CPA networks maintain compliant advertisers.
 -	Developed automated testing suite creator targeted at non-tech users.
 - Plan User Experience for products
 - Develop wireframes and interactive mockups
-- Magically turned stakeholder requirements into technical requirements for Engineers & Designers
+- Convert stakeholder requirements into technical requirements for Engineers & Designers
 
-#### Skills used/acquired while there:
+#### Stack and Skills
 -	php
 -	javascript
 -	jQuery
@@ -132,18 +139,22 @@ Led team to:
 ### Software Engineer/Program Manager
 **Sungrazer Inc 2003** October 2003 – June 2007 (3 years 9 months) West Palm Beach
 #### Job Titles held:
-*All of these titles were held, but as a small start-up, I always wore any "hat" necessary here to best complete our objective.*
+
 -	Program Manager
 -	Web Developer
 -	UX Developer/Designer
 
-#### Things I did...
+#### Highlights
+- Created UX on a web based POS
+- Created user requirements from Stakeholders
+- Created style guide and reusable html components
 -	Managed maintenance and ongoing improvements for Palm Beach County Travel Portal.
 -	Designed & developed Travel Portal for Palm Beach County Convention & Visitors Burea.
 -	Developed Web api for backend ERP system.
 -	Developed Travel Portal for Golfer's Guide. Implemented Hilton Head Golf Course's Tee-time & Reservation System.
+- Develop micro service soap api wrapping Amadeus travel C socket server
 
-#### Skills used/acquired while there:
+#### Stack and Skills
 -	php
 -	javascript, jQuery,	jQuery,	Prototype.js
 -	soap server api
@@ -154,15 +165,9 @@ Led team to:
 -	CVS, SVN
 
 ### Web Developer / Systems Admin
-**Self Employed** January 2001 – January 2003 (2 years 1 month)
+**Self Employed** January 2000 – January 2003 (2 years 1 month)
 
-- Setup and updated websites for clients using dreamweaver, php, photoshop, flash
-- Created Website Design Mockups ready for cutting
-- Maintained company networks and servers.
-- Converted clients from Windows to Linux based servers
-
-### Web Developer / Graphics Designer
-**ECE Inc** January 2000 – January 2001 (1 year 1 month)
-- Created websites for company and clients
-- Created Multimedia Presentations based on flash
-- Created flyers, business cards, and brochures
+- Develop Interactive Flash Demos
+- Design and Develop html and flash websites
+- Create custom website development framework to facilitate fast onboarding and updates for clients
+- Conversion training and SEO optimization
