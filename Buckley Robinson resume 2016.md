@@ -10,7 +10,10 @@
 - Emailing platforms, with server rotation rules
 
 ### My Next Journey
-I'm looking to grow and solve new problems. I like finding real [human] value in my problem solving. This could be UX for end users, a better experience for an internal team member, or optimization of productivity. I like solving problems in an elegant way.
+I'm looking to grow and solve new problems. I like finding real [human] value in my problem 
+solving. This could be managing and leading a team to their potential, creating UX for end users, 
+a better experience for an internal team member, or optimization of productivity. 
+I like solving problems in an elegant and pragmatic way given the current restraints.
 
 ## Experience
 
@@ -22,12 +25,12 @@ I'm looking to grow and solve new problems. I like finding real [human] value in
 - Develop hiring processes and materials
   - Screening and hiring engineers
 - Train and mentor junior engineers
+- Leading Engineering Team Building out Data Pipeline ETL for student dropout prediction
 - Led Engineering Integration of acquired company
 - Manage several teams; hybrid or remote, onsite, employees, and contractors
 - Architect Machine Learning pipeline
 - Increase prediction pipeline human scaling capacity 30x
 - Architect/Develop core data collection systems
-- Manage Engineering Team Building out Data Pipeline ETL for student dropout prediction
 - Develop common visualization library based on d3 and angular
 - Technical Lead on Multiple ongoing projects
 - Develop, and implemented automated testing strategies and processes
